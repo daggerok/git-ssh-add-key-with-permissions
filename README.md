@@ -1,5 +1,5 @@
-# git-ssh-add-key-within-permission
-add existing ssh key to git/github with fix for public key permissions...
+# git-ssh-add-key-with-permissions
+add existing ssh key to git/github and fix public key permissions...
 
 assuptions:
 - you have `backup of previous ~/.ssh` folder
