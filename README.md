@@ -32,7 +32,7 @@ chmod 600 ~/.ssh/authorized_keys
 ssh-add ~/.ssh/id_{rsa,dsa}
 
 # 5: verify
-l ~/.ssh/
+ls -lah ~/.ssh/
 total 100K
 drwx------  2 mak mak 4,0K Sep  2 12:07 ./
 drwx------ 45 mak mak  12K Sep  2 12:07 ../
